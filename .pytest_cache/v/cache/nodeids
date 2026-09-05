@@ -1,0 +1,15 @@
+[
+  "test/test_authentication.py::test_health_check",
+  "test/test_authentication.py::test_protected_route_with_expired_token",
+  "test/test_authentication.py::test_protected_route_without_token",
+  "test/test_authentication.py::test_role_restriction_doctor_only",
+  "test/test_menstrualCycle.py::test_cycle_history_range",
+  "test/test_menstrualCycle.py::test_cycle_predictions_engine",
+  "test/test_menstrualCycle.py::test_doctor_access_with_registered_appointment_is_allowed",
+  "test/test_menstrualCycle.py::test_doctor_access_without_appointment_is_forbidden",
+  "test/test_menstrualCycle.py::test_future_date_rejected",
+  "test/test_menstrualCycle.py::test_log_cycle_day_and_get_by_date",
+  "test/test_userProfile.py::test_get_and_update_my_profile",
+  "test/test_userProfile.py::test_get_and_update_patient_context",
+  "test/test_userProfile.py::test_invalid_life_stage_rejected"
+]

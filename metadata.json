@@ -1,0 +1,6 @@
+{
+  "name": "Áurea - Backend API",
+  "description": "Backend modular en FastAPI para Áurea: salud menstrual, acompañamiento clínico y comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
